@@ -36,7 +36,7 @@ scripts/build/e2e-generated-tsconfig.json
 
 stencil-stats.json
 
-# demo stuff
+## demo stuff
 demos/node_modules
 demos/polyfills
 demos/css
